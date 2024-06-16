@@ -1,1 +1,11 @@
-# Predictive-Analytics-for-Retail-sales
+End-to-End Predictive Analytics for Retail Sales with Online Retail II Dataset | Data Science (2023)
+-----------
+- **Objective:** Developed a predictive analytics solution using the Online Retail II dataset to forecast retail sales, optimize inventory, and enhance decision-making.
+- **Tools and Technologies:** Python, SQL, Pandas, NumPy, Scikit-Learn, Statsmodels, Flask, Docker, AWS SageMaker, Power BI
+- **Key Steps and Methodologies:**
+  - **Data Collection and Preparation:** Acquired and cleaned Online Retail II dataset, engineered features, and prepared data for analysis.
+  - **Exploratory Data Analysis:** Visualized sales trends and conducted statistical analysis to derive insights.
+  - **Model Development:** Implemented and optimized machine learning models (Random Forest, SARIMA) for sales forecasting.
+  - **Model Evaluation and Selection:** Evaluated models using MSE, MAE, RMSE, and R-squared, selecting the best-performing model.
+  - **Deployment:** Developed a RESTful API with Flask, containerized using Docker, and deployed on AWS SageMaker.
+  - **Visualization
